@@ -1,17 +1,11 @@
-# MaskKing
+# <a href='https://gitee.com/lyh-god/MaskKing'><img src='https://gitee.com/lyh-god/MaskKing/widgets/widget_1.svg' alt='Fork me on Gitee'></img></a>
+
 
 #### 介绍
 中山市口罩预约平台脚本
 
 #### 软件架构
 软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 使用说明
 
