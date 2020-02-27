@@ -3,6 +3,8 @@
 #### 介绍
 中山市口罩预约平台脚本
 
+平台网址：http://kz.yq.zszwfw.cn/kzyy-register/#/
+
 #### 软件架构
 软件架构说明
 
