@@ -1,5 +1,4 @@
-# <a href='https://gitee.com/lyh-god/MaskKing'><img src='https://gitee.com/lyh-god/MaskKing/widgets/widget_1.svg' alt='Fork me on Gitee'></img></a>
-
+# 
 
 #### 介绍
 中山市口罩预约平台脚本
