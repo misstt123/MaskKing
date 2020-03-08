@@ -12,8 +12,8 @@
 (function () {
     'use strict';
 
-    var startTimeout = 10000; // 延时10秒启动
-    var timeout = 100; // 点击间隔500毫秒
+    var startTimeout = 1000; // 延时10秒启动
+    var timeout = 20; // 点击间隔500毫秒
     var i = 0; // 点击计数
     var clickInterval;
 
